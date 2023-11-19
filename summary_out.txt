@@ -1,0 +1,5 @@
+ Inspired by recent research that revealed
+associations between the brain and the large computational language models, we
+propose a generative language BCI that utilizes the capacity of a large
+language model (LLM) jointly with a semantic brain decoder to directly generate
+language from functional magnetic resonance imaging (fMRI) input.
