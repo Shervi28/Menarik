@@ -8,7 +8,7 @@ from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.output_parsers import CommaSeparatedListOutputParser
 
-api="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"
+api=""
 
 st.set_page_config(layout="wide")
 
